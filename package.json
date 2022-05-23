@@ -8,8 +8,10 @@
       "name": "Krishna Rowter",
       "email": "krishna.rowter@gmail.com"
   },
-  "keywords": ["tokopedia", "slider", "vue"],
   "license": "MIT",
+  "repository": "https://github.com/krowter/tokopedia-slider-vue",
+  "bugs": "https://github.com/krowter/tokopedia-slider-vue/issues",
+  "keywords": ["tokopedia", "slider", "vue"],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

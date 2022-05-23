@@ -1,7 +1,6 @@
-# Vue 3 + Vite
+# Tokopedia Slider Vue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+![slider preview](./assets/slider-preview.gif)
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+I tried to replicate Tokopedia's headline slider in Vue to learn more about Vue's reactivity.
+Though I used a direct DOM access for 1-2 methods because if I had used Vue's way, the slides change is not as smooth.

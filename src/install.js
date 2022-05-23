@@ -1,8 +1,8 @@
-import _Slider from "./components/Slider.vue";
+import _Slider from "./components/Slider.vue"
 
 const Slider = {
   install(Vue, options) {
-    Vue.component("slider", Slider);
+    Vue.component("slider", _Slider);
   },
 };
 

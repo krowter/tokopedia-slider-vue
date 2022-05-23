@@ -1,7 +1,7 @@
 {
   "name": "tokopedia-slider-vue",
   "private": false,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "dist/tokopedia-slider-vue.common.js",
   "files": [
     "dist/*"

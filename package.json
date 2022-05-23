@@ -1,17 +1,23 @@
 {
   "name": "tokopedia-slider-vue",
   "private": false,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/tokopedia-slider-vue.common.js",
-  "files": ["dist/*"],
+  "files": [
+    "dist/*"
+  ],
   "author": {
-      "name": "Krishna Rowter",
-      "email": "krishna.rowter@gmail.com"
+    "name": "Krishna Rowter",
+    "email": "krishna.rowter@gmail.com"
   },
   "license": "MIT",
   "repository": "https://github.com/krowter/tokopedia-slider-vue",
   "bugs": "https://github.com/krowter/tokopedia-slider-vue/issues",
-  "keywords": ["tokopedia", "slider", "vue"],
+  "keywords": [
+    "tokopedia",
+    "slider",
+    "vue"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
